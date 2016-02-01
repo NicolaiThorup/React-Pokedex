@@ -1,0 +1,28 @@
+body {
+    padding-top: 70px;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.pokemon-item{
+  height: 160px;
+  width: 200px;
+  background-color: #f6f6f6;
+  border: solid 1px #d8d8d8;
+  border-radius: 10px;
+  text-transform: capitalize;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.pokemon-item h4{
+  margin: 10px 0px 0px 20px;
+}
+.pokemon-item img{
+  margin-left : 15px
+}
